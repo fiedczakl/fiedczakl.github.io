@@ -1,0 +1,11 @@
+photo: "https://fiedczakl.github.io/images/lukeCropped.jpg"
+name: "Luke Fiedczak"
+copy: "I'm a Java back-end software engineer based in Fairfield, CT. My specialty is development of low latency, high volume, scalable web based systems and APIs that power website pages, feed and distribute data to internal clients, external partners and affiliates, track data for stats and analysis. Passionate about building clean, robust, multi-threaded applications on the JVM. This is my condensed resume card."
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - brown
+# - blue
+# - green
+color: blue
